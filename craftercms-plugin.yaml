@@ -38,15 +38,15 @@ plugin:
     minor: 0
     patch: 17
   description: A Marketo plugin for CrafterCMS
-  documentation: "https://raw.githubusercontent.com/craftercms/marketo-plugin/master/readme.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/marketo-plugin/master/readme.md"
   media:
     screenshots:
       - title: Marketo
         description: Marketo
-        url: https://raw.githubusercontent.com/craftercms/marketo-plugin/master/.crafter/cover.png
+        url: https://raw.githubusercontent.com/craftersoftware/marketo-plugin/master/.crafter/cover.png
   website:
     name: Marketo Plugin
-    url: https://github.com/craftercms/marketo-plugin
+    url: https://github.com/craftersoftware/marketo-plugin
   developer:
     company:
       name: CrafterCMS
